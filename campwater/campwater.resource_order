@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings":[
-    {"name":"proto","order":25,"path":"folders/proto.yy",},
     {"name":"menu","order":23,"path":"folders/menu.yy",},
     {"name":"PolishMinigame","order":22,"path":"folders/PolishMinigame.yy",},
+    {"name":"proto","order":25,"path":"folders/proto.yy",},
     {"name":"soup_room","order":24,"path":"folders/soup_room.yy",},
     {"name":"timers","order":21,"path":"folders/timers.yy",},
   ],
