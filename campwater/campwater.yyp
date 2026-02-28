@@ -23,6 +23,7 @@
   },
   "name":"campwater",
   "resources":[
+    {"id":{"name":"obj_mining_wall","path":"objects/obj_mining_wall/obj_mining_wall.yy",},},
     {"id":{"name":"oplay","path":"objects/oplay/oplay.yy",},},
     {"id":{"name":"oredacted","path":"objects/oredacted/oredacted.yy",},},
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"RightHand","path":"sprites/RightHand/RightHand.yy",},},
     {"id":{"name":"SoupBackground","path":"sprites/SoupBackground/SoupBackground.yy",},},
     {"id":{"name":"souptop","path":"sprites/souptop/souptop.yy",},},
+    {"id":{"name":"spr_mining_wall","path":"sprites/spr_mining_wall/spr_mining_wall.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"Tomato","path":"sprites/Tomato/Tomato.yy",},},
   ],
