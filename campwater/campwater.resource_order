@@ -3,6 +3,7 @@
     {"name":"timers","order":21,"path":"folders/timers.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"font","order":24,"path":"fonts/font/font.yy",},
     {"name":"obj_mining_wall","order":22,"path":"objects/obj_mining_wall/obj_mining_wall.yy",},
     {"name":"oplay","order":14,"path":"objects/oplay/oplay.yy",},
     {"name":"oredacted","order":6,"path":"objects/oredacted/oredacted.yy",},
