@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"proto","order":25,"path":"folders/proto.yy",},
     {"name":"menu","order":23,"path":"folders/menu.yy",},
     {"name":"PolishMinigame","order":22,"path":"folders/PolishMinigame.yy",},
     {"name":"soup_room","order":24,"path":"folders/soup_room.yy",},
@@ -16,6 +17,7 @@
     {"name":"camp_waterr","order":8,"path":"rooms/camp_waterr/camp_waterr.yy",},
     {"name":"cellroom","order":1,"path":"rooms/cellroom/cellroom.yy",},
     {"name":"menu","order":1,"path":"rooms/menu/menu.yy",},
+    {"name":"proto_end","order":1,"path":"rooms/proto_end/proto_end.yy",},
     {"name":"SirFace","order":1,"path":"rooms/SirFace/SirFace.yy",},
     {"name":"SoupRoom","order":5,"path":"rooms/SoupRoom/SoupRoom.yy",},
     {"name":"HandScript","order":8,"path":"scripts/HandScript/HandScript.yy",},
