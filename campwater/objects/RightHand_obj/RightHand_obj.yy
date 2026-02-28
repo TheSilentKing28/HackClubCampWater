@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"RightHand",
+    "path":"sprites/RightHand/RightHand.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
