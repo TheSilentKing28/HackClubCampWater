@@ -19,9 +19,9 @@
   },
   "name":"campwater",
   "resources":[
-    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"oredacted","path":"objects/oredacted/oredacted.yy",},},
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
+    {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"Tomato_obj","path":"objects/Tomato_obj/Tomato_obj.yy",},},
     {"id":{"name":"camp_waterr","path":"rooms/camp_waterr/camp_waterr.yy",},},
     {"id":{"name":"cellroom","path":"rooms/cellroom/cellroom.yy",},},
