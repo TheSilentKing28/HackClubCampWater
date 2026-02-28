@@ -28,6 +28,7 @@
   },
   "name":"campwater",
   "resources":[
+    {"id":{"name":"background_music","path":"objects/background_music/background_music.yy",},},
     {"id":{"name":"Mud_obj","path":"objects/Mud_obj/Mud_obj.yy",},},
     {"id":{"name":"obj_gameLong","path":"objects/obj_gameLong/obj_gameLong.yy",},},
     {"id":{"name":"obj_mining_wall","path":"objects/obj_mining_wall/obj_mining_wall.yy",},},
@@ -47,6 +48,7 @@
     {"id":{"name":"SirFace","path":"rooms/SirFace/SirFace.yy",},},
     {"id":{"name":"SoupRoom","path":"rooms/SoupRoom/SoupRoom.yy",},},
     {"id":{"name":"HandScript","path":"scripts/HandScript/HandScript.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"camp_water","path":"sprites/camp_water/camp_water.yy",},},
     {"id":{"name":"cell","path":"sprites/cell/cell.yy",},},
     {"id":{"name":"end_credit","path":"sprites/end_credit/end_credit.yy",},},

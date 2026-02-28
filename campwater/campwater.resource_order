@@ -8,6 +8,7 @@
     {"name":"timers","order":21,"path":"folders/timers.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"background_music","order":32,"path":"objects/background_music/background_music.yy",},
     {"name":"Mud_obj","order":4,"path":"objects/Mud_obj/Mud_obj.yy",},
     {"name":"obj_gameLong","order":6,"path":"objects/obj_gameLong/obj_gameLong.yy",},
     {"name":"obj_mining_wall","order":2,"path":"objects/obj_mining_wall/obj_mining_wall.yy",},
@@ -24,6 +25,7 @@
     {"name":"SirFace","order":1,"path":"rooms/SirFace/SirFace.yy",},
     {"name":"SoupRoom","order":5,"path":"rooms/SoupRoom/SoupRoom.yy",},
     {"name":"HandScript","order":8,"path":"scripts/HandScript/HandScript.yy",},
+    {"name":"Sound1","order":31,"path":"sounds/Sound1/Sound1.yy",},
     {"name":"camp_water","order":7,"path":"sprites/camp_water/camp_water.yy",},
     {"name":"menusp","order":3,"path":"sprites/menusp/menusp.yy",},
     {"name":"Mud","order":5,"path":"sprites/Mud/Mud.yy",},
