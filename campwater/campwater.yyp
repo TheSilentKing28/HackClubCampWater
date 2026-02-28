@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"camp_water","folderPath":"folders/camp_water.yy","name":"camp_water","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"cell","folderPath":"folders/cell.yy","name":"cell","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"timers","folderPath":"folders/timers.yy","name":"timers","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -26,6 +27,7 @@
     {"id":{"name":"oredacted","path":"objects/oredacted/oredacted.yy",},},
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
     {"id":{"name":"souptop_obj","path":"objects/souptop_obj/souptop_obj.yy",},},
+    {"id":{"name":"timer_night","path":"objects/timer_night/timer_night.yy",},},
     {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"Tomato_obj","path":"objects/Tomato_obj/Tomato_obj.yy",},},
     {"id":{"name":"camp_waterr","path":"rooms/camp_waterr/camp_waterr.yy",},},
@@ -33,7 +35,6 @@
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"id":{"name":"SoupRoom","path":"rooms/SoupRoom/SoupRoom.yy",},},
     {"id":{"name":"HandScript","path":"scripts/HandScript/HandScript.yy",},},
-    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"camp_water","path":"sprites/camp_water/camp_water.yy",},},
     {"id":{"name":"cell","path":"sprites/cell/cell.yy",},},
     {"id":{"name":"play","path":"sprites/play/play.yy",},},
