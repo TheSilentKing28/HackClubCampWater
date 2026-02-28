@@ -5,6 +5,7 @@
     {"name":"oredacted","order":6,"path":"objects/oredacted/oredacted.yy",},
     {"name":"RightHand_obj","order":4,"path":"objects/RightHand_obj/RightHand_obj.yy",},
     {"name":"souptop_obj","order":17,"path":"objects/souptop_obj/souptop_obj.yy",},
+    {"name":"timer","order":19,"path":"objects/timer/timer.yy",},
     {"name":"Tomato_obj","order":15,"path":"objects/Tomato_obj/Tomato_obj.yy",},
     {"name":"camp_waterr","order":8,"path":"rooms/camp_waterr/camp_waterr.yy",},
     {"name":"cellroom","order":10,"path":"rooms/cellroom/cellroom.yy",},
