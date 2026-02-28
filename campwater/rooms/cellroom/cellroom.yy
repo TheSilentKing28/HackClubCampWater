@@ -16,8 +16,8 @@
   ],
   "name":"cellroom",
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"cell",
+    "path":"folders/cell.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
