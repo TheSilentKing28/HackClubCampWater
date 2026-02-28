@@ -12,9 +12,9 @@
   "Folders":[
     {"$GMFolder":"","%Name":"camp_water","folderPath":"folders/camp_water.yy","name":"camp_water","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"cell","folderPath":"folders/cell.yy","name":"cell","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"soup_room","folderPath":"folders/soup_room.yy","name":"soup_room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menu","folderPath":"folders/menu.yy","name":"menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"PolishMinigame","folderPath":"folders/PolishMinigame.yy","name":"PolishMinigame","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"soup_room","folderPath":"folders/soup_room.yy","name":"soup_room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"timers","folderPath":"folders/timers.yy","name":"timers","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
