@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"cell",
+    "path":"folders/cell.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

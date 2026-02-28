@@ -10,8 +10,8 @@
   "name":"obj_mining_wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"cell",
+    "path":"folders/cell.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -45,8 +45,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"soup_room",
+    "path":"folders/soup_room.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
