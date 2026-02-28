@@ -3,6 +3,7 @@ if (timer_count <= 0) {
     if cycle = 0{
         show_debug_message("Day Ended!")
         room_goto(cellroom)
+        show_debug_message(string(global.points))
         cycle = 1
         run = 1
     }
