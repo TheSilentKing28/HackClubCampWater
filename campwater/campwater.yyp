@@ -15,10 +15,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"campwater",
   "resources":[
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"oredacted","path":"objects/oredacted/oredacted.yy",},},
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
     {"id":{"name":"Tomato_obj","path":"objects/Tomato_obj/Tomato_obj.yy",},},

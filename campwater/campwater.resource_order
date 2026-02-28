@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"Object4","order":11,"path":"objects/Object4/Object4.yy",},
     {"name":"oredacted","order":6,"path":"objects/oredacted/oredacted.yy",},
     {"name":"RightHand_obj","order":4,"path":"objects/RightHand_obj/RightHand_obj.yy",},
     {"name":"Tomato_obj","order":10,"path":"objects/Tomato_obj/Tomato_obj.yy",},
