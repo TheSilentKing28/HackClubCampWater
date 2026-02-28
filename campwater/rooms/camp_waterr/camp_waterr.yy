@@ -21,8 +21,8 @@
   ],
   "name":"camp_waterr",
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"camp_water",
+    "path":"folders/camp_water.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

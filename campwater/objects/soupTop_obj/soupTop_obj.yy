@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Tomato_obj",
+  "%Name":"souptop_obj",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"souptop_obj","path":"objects/souptop_obj/souptop_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Tomato_obj",
+  "name":"souptop_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"campwater",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Tomato",
-    "path":"sprites/Tomato/Tomato.yy",
+    "name":"souptop",
+    "path":"sprites/souptop/souptop.yy",
   },
   "spriteMaskId":null,
   "visible":true,
