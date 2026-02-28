@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"camp_water","folderPath":"folders/camp_water.yy","name":"camp_water","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"cell","folderPath":"folders/cell.yy","name":"cell","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"PolishMinigame","folderPath":"folders/PolishMinigame.yy","name":"PolishMinigame","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"timers","folderPath":"folders/timers.yy","name":"timers","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -19,7 +20,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.1.210",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"campwater",
   "resources":[
@@ -27,6 +28,7 @@
     {"id":{"name":"oredacted","path":"objects/oredacted/oredacted.yy",},},
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
     {"id":{"name":"souptop_obj","path":"objects/souptop_obj/souptop_obj.yy",},},
+    {"id":{"name":"Statue","path":"objects/Statue/Statue.yy",},},
     {"id":{"name":"timer_night","path":"objects/timer_night/timer_night.yy",},},
     {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"Tomato_obj","path":"objects/Tomato_obj/Tomato_obj.yy",},},

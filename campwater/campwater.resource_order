@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"PolishMinigame","order":22,"path":"folders/PolishMinigame.yy",},
     {"name":"timers","order":21,"path":"folders/timers.yy",},
   ],
   "ResourceOrderSettings":[
