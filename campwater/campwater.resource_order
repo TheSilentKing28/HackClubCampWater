@@ -3,11 +3,13 @@
   "ResourceOrderSettings":[
     {"name":"oredacted","order":6,"path":"objects/oredacted/oredacted.yy",},
     {"name":"RightHand_obj","order":4,"path":"objects/RightHand_obj/RightHand_obj.yy",},
+    {"name":"Tomato_obj","order":10,"path":"objects/Tomato_obj/Tomato_obj.yy",},
     {"name":"camp_waterr","order":8,"path":"rooms/camp_waterr/camp_waterr.yy",},
     {"name":"HandScript","order":3,"path":"scripts/HandScript/HandScript.yy",},
     {"name":"camp_water","order":7,"path":"sprites/camp_water/camp_water.yy",},
     {"name":"redacted","order":5,"path":"sprites/redacted/redacted.yy",},
     {"name":"RightHand","order":1,"path":"sprites/RightHand/RightHand.yy",},
     {"name":"SoupBackground","order":2,"path":"sprites/SoupBackground/SoupBackground.yy",},
+    {"name":"Tomato","order":9,"path":"sprites/Tomato/Tomato.yy",},
   ],
 }
