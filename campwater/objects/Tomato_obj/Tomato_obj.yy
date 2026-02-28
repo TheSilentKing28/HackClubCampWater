@@ -3,7 +3,7 @@
   "%Name":"Tomato_obj",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"soupTop_obj","path":"objects/soupTop_obj/soupTop_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"souptop_obj","path":"objects/souptop_obj/souptop_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Tomato_obj",
