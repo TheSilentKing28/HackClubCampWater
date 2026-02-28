@@ -12,15 +12,15 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"8e1404b5-a801-45c4-845b-0aff7e5f0320","name":"8e1404b5-a801-45c4-845b-0aff7e5f0320","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c0a0a656-0b64-44cb-a734-5a1dfb8bbc8e","name":"c0a0a656-0b64-44cb-a734-5a1dfb8bbc8e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"2dcfd106-798d-46f8-a136-17d73eda24bb","blendMode":0,"displayName":"Shadow","isLocked":false,"name":"2dcfd106-798d-46f8-a136-17d73eda24bb","opacity":28.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"4d67c81d-0482-4d16-9cac-6641519d36ca","blendMode":0,"displayName":"Underground","isLocked":false,"name":"4d67c81d-0482-4d16-9cac-6641519d36ca","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b61132f1-1131-42eb-84e1-1668cfae9b9b","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"b61132f1-1131-42eb-84e1-1668cfae9b9b","opacity":37.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4120226e-53a8-402b-9e13-e683fa637137","blendMode":0,"displayName":"default","isLocked":false,"name":"4120226e-53a8-402b-9e13-e683fa637137","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"courtyardBackground",
   "nineSlice":null,
@@ -70,8 +70,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e1404b5-a801-45c4-845b-0aff7e5f0320","path":"sprites/courtyardBackground/courtyardBackground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"394c2ce7-84af-405d-8e6a-91dc396574ad","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c0a0a656-0b64-44cb-a734-5a1dfb8bbc8e","path":"sprites/courtyardBackground/courtyardBackground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"39e89e3f-f5d3-418b-acb3-84a8ecafac19","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
