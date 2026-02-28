@@ -2,5 +2,6 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"RightHand","order":1,"path":"sprites/RightHand/RightHand.yy",},
+    {"name":"SoupBackground","order":2,"path":"sprites/SoupBackground/SoupBackground.yy",},
   ],
 }

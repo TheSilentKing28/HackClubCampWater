@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"RightHand","path":"sprites/RightHand/RightHand.yy",},},
+    {"id":{"name":"SoupBackground","path":"sprites/SoupBackground/SoupBackground.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
