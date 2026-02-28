@@ -4,6 +4,7 @@
     {"name":"timers","order":21,"path":"folders/timers.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Mud_obj","order":4,"path":"objects/Mud_obj/Mud_obj.yy",},
     {"name":"oplay","order":14,"path":"objects/oplay/oplay.yy",},
     {"name":"oredacted","order":6,"path":"objects/oredacted/oredacted.yy",},
     {"name":"RightHand_obj","order":4,"path":"objects/RightHand_obj/RightHand_obj.yy",},
@@ -17,6 +18,7 @@
     {"name":"HandScript","order":3,"path":"scripts/HandScript/HandScript.yy",},
     {"name":"camp_water","order":7,"path":"sprites/camp_water/camp_water.yy",},
     {"name":"cell","order":9,"path":"sprites/cell/cell.yy",},
+    {"name":"Mud","order":5,"path":"sprites/Mud/Mud.yy",},
     {"name":"play","order":13,"path":"sprites/play/play.yy",},
     {"name":"redacted","order":5,"path":"sprites/redacted/redacted.yy",},
     {"name":"RightHand","order":1,"path":"sprites/RightHand/RightHand.yy",},

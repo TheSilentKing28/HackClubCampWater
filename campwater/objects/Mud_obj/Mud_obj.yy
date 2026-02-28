@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Statue",
-  "eventList":[],
+  "%Name":"Mud_obj",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Statue",
+  "name":"Mud_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"PolishMinigame",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SirFaceStatue",
-    "path":"sprites/SirFaceStatue/SirFaceStatue.yy",
+    "name":"Mud",
+    "path":"sprites/Mud/Mud.yy",
   },
   "spriteMaskId":null,
   "visible":true,
