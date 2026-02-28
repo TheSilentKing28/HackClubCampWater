@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HandScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HandScript",
+  "parent":{
+    "name":"campwater",
+    "path":"campwater.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

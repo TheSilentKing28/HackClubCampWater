@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"RightHand_obj","order":4,"path":"objects/RightHand_obj/RightHand_obj.yy",},
+    {"name":"HandScript","order":3,"path":"scripts/HandScript/HandScript.yy",},
     {"name":"RightHand","order":1,"path":"sprites/RightHand/RightHand.yy",},
     {"name":"SoupBackground","order":2,"path":"sprites/SoupBackground/SoupBackground.yy",},
   ],

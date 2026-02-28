@@ -19,14 +19,16 @@
   },
   "name":"campwater",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
+    {"id":{"name":"SoupRoom","path":"rooms/SoupRoom/SoupRoom.yy",},},
+    {"id":{"name":"HandScript","path":"scripts/HandScript/HandScript.yy",},},
     {"id":{"name":"RightHand","path":"sprites/RightHand/RightHand.yy",},},
     {"id":{"name":"SoupBackground","path":"sprites/SoupBackground/SoupBackground.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"SoupRoom","path":"rooms/SoupRoom/SoupRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
