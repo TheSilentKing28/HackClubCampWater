@@ -8,8 +8,8 @@
   "name":"RightHand_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"soup_room",
+    "path":"folders/soup_room.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"HandScript",
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"soup_room",
+    "path":"folders/soup_room.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

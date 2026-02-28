@@ -8,8 +8,8 @@
   "name":"oplay",
   "overriddenProperties":[],
   "parent":{
-    "name":"campwater",
-    "path":"campwater.yyp",
+    "name":"menu",
+    "path":"folders/menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
