@@ -1,2 +1,2 @@
-timer_interval = 900;
+timer_interval = 750;
 timer_count = timer_interval;
