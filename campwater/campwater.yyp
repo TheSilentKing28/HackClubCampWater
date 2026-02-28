@@ -20,10 +20,12 @@
   "name":"campwater",
   "resources":[
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
+    {"id":{"name":"SoupTomato","path":"objects/SoupTomato/SoupTomato.yy",},},
     {"id":{"name":"SoupRoom","path":"rooms/SoupRoom/SoupRoom.yy",},},
     {"id":{"name":"HandScript","path":"scripts/HandScript/HandScript.yy",},},
     {"id":{"name":"RightHand","path":"sprites/RightHand/RightHand.yy",},},
     {"id":{"name":"SoupBackground","path":"sprites/SoupBackground/SoupBackground.yy",},},
+    {"id":{"name":"SoupTomatoArt","path":"sprites/SoupTomatoArt/SoupTomatoArt.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
