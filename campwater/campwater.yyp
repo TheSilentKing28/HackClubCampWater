@@ -12,9 +12,10 @@
   "Folders":[
     {"$GMFolder":"","%Name":"camp_water","folderPath":"folders/camp_water.yy","name":"camp_water","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"cell","folderPath":"folders/cell.yy","name":"cell","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"soup_room","folderPath":"folders/soup_room.yy","name":"soup_room","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"proto","folderPath":"folders/proto.yy","name":"proto","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menu","folderPath":"folders/menu.yy","name":"menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"PolishMinigame","folderPath":"folders/PolishMinigame.yy","name":"PolishMinigame","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"soup_room","folderPath":"folders/soup_room.yy","name":"soup_room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"timers","folderPath":"folders/timers.yy","name":"timers","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -22,7 +23,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"campwater",
   "resources":[
@@ -39,6 +40,7 @@
     {"id":{"name":"camp_waterr","path":"rooms/camp_waterr/camp_waterr.yy",},},
     {"id":{"name":"cellroom","path":"rooms/cellroom/cellroom.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"id":{"name":"proto_end","path":"rooms/proto_end/proto_end.yy",},},
     {"id":{"name":"SirFace","path":"rooms/SirFace/SirFace.yy",},},
     {"id":{"name":"SoupRoom","path":"rooms/SoupRoom/SoupRoom.yy",},},
     {"id":{"name":"HandScript","path":"scripts/HandScript/HandScript.yy",},},
@@ -47,6 +49,7 @@
     {"id":{"name":"menusp","path":"sprites/menusp/menusp.yy",},},
     {"id":{"name":"Mud","path":"sprites/Mud/Mud.yy",},},
     {"id":{"name":"play","path":"sprites/play/play.yy",},},
+    {"id":{"name":"proto_spr","path":"sprites/proto_spr/proto_spr.yy",},},
     {"id":{"name":"redacted","path":"sprites/redacted/redacted.yy",},},
     {"id":{"name":"RightHand","path":"sprites/RightHand/RightHand.yy",},},
     {"id":{"name":"SirFaceBackground","path":"sprites/SirFaceBackground/SirFaceBackground.yy",},},
@@ -64,6 +67,7 @@
     {"roomId":{"name":"cellroom","path":"rooms/cellroom/cellroom.yy",},},
     {"roomId":{"name":"camp_waterr","path":"rooms/camp_waterr/camp_waterr.yy",},},
     {"roomId":{"name":"SirFace","path":"rooms/SirFace/SirFace.yy",},},
+    {"roomId":{"name":"proto_end","path":"rooms/proto_end/proto_end.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
