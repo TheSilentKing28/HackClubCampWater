@@ -14,6 +14,8 @@
     {"name":"inst_32CE2837","path":"rooms/SirFace/SirFace.yy",},
     {"name":"inst_AF091C5","path":"rooms/SirFace/SirFace.yy",},
     {"name":"inst_6558B67D","path":"rooms/SirFace/SirFace.yy",},
+    {"name":"inst_3ADF2FA3","path":"rooms/SirFace/SirFace.yy",},
+    {"name":"inst_1FC0024F","path":"rooms/SirFace/SirFace.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -26,6 +28,8 @@
         {"$GMRInstance":"v4","%Name":"inst_32CE2837","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32CE2837","objectId":{"name":"Mud_obj","path":"objects/Mud_obj/Mud_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":1.0,"x":320.0,"y":640.0,},
         {"$GMRInstance":"v4","%Name":"inst_AF091C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_AF091C5","objectId":{"name":"Mud_obj","path":"objects/Mud_obj/Mud_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":2.5,"x":576.0,"y":576.0,},
         {"$GMRInstance":"v4","%Name":"inst_6558B67D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6558B67D","objectId":{"name":"Mud_obj","path":"objects/Mud_obj/Mud_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":416.0,"y":416.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3ADF2FA3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3ADF2FA3","objectId":{"name":"timer","path":"objects/timer/timer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":352.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1FC0024F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1FC0024F","objectId":{"name":"obj_gameLong","path":"objects/obj_gameLong/obj_gameLong.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":320.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_246F876A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_246F876A","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"SirFaceBackground","path":"sprites/SirFaceBackground/SirFaceBackground.yy",},"x":0.0,"y":0.0,},

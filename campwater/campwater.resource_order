@@ -5,6 +5,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Mud_obj","order":4,"path":"objects/Mud_obj/Mud_obj.yy",},
+    {"name":"obj_gameLong","order":6,"path":"objects/obj_gameLong/obj_gameLong.yy",},
     {"name":"oplay","order":14,"path":"objects/oplay/oplay.yy",},
     {"name":"oredacted","order":6,"path":"objects/oredacted/oredacted.yy",},
     {"name":"RightHand_obj","order":4,"path":"objects/RightHand_obj/RightHand_obj.yy",},

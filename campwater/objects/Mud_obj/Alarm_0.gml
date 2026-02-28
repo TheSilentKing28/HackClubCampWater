@@ -1,2 +1,2 @@
-global.points += 1
+global.points += 0.25
 instance_destroy()
