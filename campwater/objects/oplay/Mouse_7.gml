@@ -1,2 +1,2 @@
-room_goto(SoupRoom)
+room_goto(SirFace)
 global.points = 0
