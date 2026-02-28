@@ -15,13 +15,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"campwater",
   "resources":[
     {"id":{"name":"oplay","path":"objects/oplay/oplay.yy",},},
     {"id":{"name":"oredacted","path":"objects/oredacted/oredacted.yy",},},
     {"id":{"name":"RightHand_obj","path":"objects/RightHand_obj/RightHand_obj.yy",},},
+    {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"camp_waterr","path":"rooms/camp_waterr/camp_waterr.yy",},},
     {"id":{"name":"cellroom","path":"rooms/cellroom/cellroom.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
@@ -29,6 +30,7 @@
     {"id":{"name":"HandScript","path":"scripts/HandScript/HandScript.yy",},},
     {"id":{"name":"camp_water","path":"sprites/camp_water/camp_water.yy",},},
     {"id":{"name":"cell","path":"sprites/cell/cell.yy",},},
+    {"id":{"name":"courtyardBackground","path":"sprites/courtyardBackground/courtyardBackground.yy",},},
     {"id":{"name":"play","path":"sprites/play/play.yy",},},
     {"id":{"name":"redacted","path":"sprites/redacted/redacted.yy",},},
     {"id":{"name":"RightHand","path":"sprites/RightHand/RightHand.yy",},},
